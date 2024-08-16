@@ -1,0 +1,22 @@
+/* styles.css */
+#myText {
+    font-size: 20px;
+    color: blue;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#content {
+    font-size: 18px;
+    color: darkgray;
+}
+
+.new-element {
+    padding: 10px;
+    border: 1px solid black;
+    margin: 5px 0;
+}
